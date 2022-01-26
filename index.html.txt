@@ -1,0 +1,15 @@
+<html>
+    <body>
+    <h1>JS Form Kontrol Uygulaması</h1>
+    <form action="giris" name="girisFormu"/>
+    <label for="adi">E-posta </form>
+    <input type="text" name="eposta"/>
+    <input type="password" name="sifre"/>
+    <label for="sifre"> Şifre Giriniz :</label>
+    <input type="submit" value="giriş" />
+    </form>
+        
+        
+    </body>
+    </html>
+    
